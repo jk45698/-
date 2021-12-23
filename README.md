@@ -22,6 +22,13 @@ mission 1文件夹包含了图像检索的所有内容，由于SIFT特征和聚�
 
 mission 2 文件夹包含了yolo模型，并存储了权重文件。
 
+**warning:**
+
+在上传过程中，系统忽略了 mission2/yolov5-master/runs 文件夹，因此我将其传入百度网盘作为补充：
+
+链接：https://pan.baidu.com/s/1i3tsGnKVXv7giTBZMN8viA 
+提取码：w7ne
+
 实现文字检索，使用以下命令：
 
 ```
